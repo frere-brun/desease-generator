@@ -3,7 +3,7 @@
 	{
 		"places": [{"name":"tropics", "file": "tropics.json", "specificPlaces":null}],
 		"name": "Tropical",
-		"beginDate": null,
+		"beginDate": "21-08-2011",
 		"endDate": null,
 		"duration": "6 months",
 		"requiredTests": null
